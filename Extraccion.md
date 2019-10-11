@@ -35,8 +35,8 @@
 
 ### Requisitos funcionales (ordenados por prioridad)
 
- - Gestión y planificación de los pacientes.
- - Gestión de citas en la pantalla principal.
+ - Gestión y planificación de los pacientes
+ - Gestión de citas en la pantalla principal
  - Busqueda de un paciente (registro, modificación y borrado)
  - Modificación de pacientes
  - Modificacion de tratamientos
