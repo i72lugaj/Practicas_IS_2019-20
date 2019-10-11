@@ -1,4 +1,5 @@
-### Añadir nuevo paciente
+## Añadir nuevo paciente
+
 **Descripcion:** Se introduce el nombre del paciente, su edad, su DNI, su direccion, su seguro medico, su ID de seguridad social y estos datos se quedan guardados en el sistema
 
 **Actores principales**: Secretario
