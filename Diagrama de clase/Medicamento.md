@@ -9,7 +9,7 @@ Clase que contiene toda la información necesaria relativa a un medicamento
 - **Horario** (Tipo: STRING)
 ##### Métodos de la clase
 - **Constructor** (Inicializa)
-  - **init_Tratamiento:** Constructor de la clase. Permite inicializar un conjunto de valores a la hora de crear un nuevo item *Medicamento*
+  - **init_Medicamento:** Constructor de la clase. Permite inicializar un conjunto de valores a la hora de crear un nuevo item *Medicamento*
 
 - **GET** (Obtención de datos)
   - **get_Nombre:** Método que obtiene el nombre de un medicamento
